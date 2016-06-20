@@ -1,2 +1,2 @@
-# `l`
-The better way to cd and ls
+# `cdir`
+The better way to `cd` and `dir` (or `ls`)
